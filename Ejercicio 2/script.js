@@ -1,7 +1,7 @@
 const carrito = {
     productos: [{
         nombre: 'Papel higiénico',
-        unidades: 6,
+        unidades: 4,
         precio: 5,
     },
     {
